@@ -1,0 +1,28 @@
+---
+title: "Summaries by OR"
+author: "Minnie Teng"
+date: "2/20/2020"
+output: html_document
+---
+
+## OR1 to OR7
+
+```{r}
+ORs <- readLines("C:/Users/melxt/ciz/vitalsignprocessing/metatestresult.csv") %>% 
+
+ORs
+  
+```
+
+
+## CATH
+
+## CT
+
+## DENTAL 
+
+# Coverage Plots for each OR per variable
+
+![](C:\Users\melxt\ciz\vitalsignprocessing\Plots.pdf)
+
+
