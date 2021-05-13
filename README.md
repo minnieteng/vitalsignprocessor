@@ -1,3 +1,5 @@
+Details of this project: https://www.stahq.org/userfiles/files/023_STA_21AM_Abstract_Teng%28683%29.pdf
+
 # vitalsignprocessing
 Setup:  
 - Open cmd prompt  
